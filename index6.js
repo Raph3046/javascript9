@@ -1,7 +1,8 @@
 // parseInt function
+// this is a function that turns strings into integers
 
 function convertToInteger(str) {
-    return parseInt(str, 2)
+    return parseInt(str)
 }
 
-convertToInteger("10011"); 
+console.log(convertToInteger("56")); 

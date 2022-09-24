@@ -3,7 +3,7 @@
 function randomFraction() {
 
 
-    return Math.random();
+    return MMath.random();
 }
 
 console.log(randomFraction()); 

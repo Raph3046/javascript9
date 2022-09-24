@@ -2,25 +2,25 @@
 
 let contacts = [
     {
-        "frstName": "Akira",
+        "firstName": "Akira",
         "lastName": "Laine",
         "number": "0543236543",
         "likes": ["Pizza", "Coding", "Brownie Points"]
     },
     {
-        "frstName": "Harry",
+        "firstName": "Harry",
         "lastName": "Potter",
         "number": "0994372684",
         "likes": ["Hogwarts", "Magic", "Hagrid"]
     },
     {
-        "frstName": "Sherlock",
+        "firstName": "Sherlock",
         "lastName": "Holmes",
         "number": "0487345643",
         "likes": ["Intriguing Cases", "Violin"]
     },
     {
-        "frstName": "Kristian",
+        "firstName": "Kristian",
         "lastName": "Vos",
         "number": "unknown",
         "likes": ["JavaScript", "Gaming", "Foxes"]
